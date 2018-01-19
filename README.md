@@ -3,38 +3,8 @@
 
 Data Format
 
-1. Business Data:
 
-{'address': '691 Richmond Rd',
-  'attributes': {'BikeParking': True,
-   'BusinessParking': {'garage': False,
-    'lot': True,
-    'street': False,
-    'valet': False,
-    'validated': False},
-   'RestaurantsPriceRange2': 2,
-   'WheelchairAccessible': True},
-  'business_id': 'YDf95gJZaq05wvo7hTQbbQ',
-  'categories': ['Shopping', 'Shopping Centers'],
-  'city': 'Richmond Heights',
-  'hours': {'Friday': '10:00-21:00',
-   'Monday': '10:00-21:00',
-   'Saturday': '10:00-21:00',
-   'Sunday': '11:00-18:00',
-   'Thursday': '10:00-21:00',
-   'Tuesday': '10:00-21:00',
-   'Wednesday': '10:00-21:00'},
-  'is_open': 1,
-  'latitude': 41.5417162,
-  'longitude': -81.4931165,
-  'name': 'Richmond Town Square',
-  'neighborhood': '',
-  'postal_code': '44143',
-  'review_count': 17,
-  'stars': 2.0,
-  'state': 'OH'}
-
-2. Review Data
+1. Review Data
 
 {'business_id': 'dQZOCI_IIxrUKPnRa56yog',
   'cool': 0,
@@ -46,7 +16,7 @@ Data Format
   'useful': 0,
   'user_id': 'rOKLo5-U4HTg_q3tV1nbbg'}
   
-  3. User Data
+  2. User Data
   
   {'average_stars': 3.8,
   'compliment_cool': 5174,
