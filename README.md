@@ -16,28 +16,4 @@ Data Format
   'useful': 0,
   'user_id': 'rOKLo5-U4HTg_q3tV1nbbg'}
   
-  2. User Data
-  
-  {'average_stars': 3.8,
-  'compliment_cool': 5174,
-  'compliment_cute': 284,
-  'compliment_funny': 5174,
-  'compliment_hot': 5175,
-  'compliment_list': 78,
-  'compliment_more': 299,
-  'compliment_note': 1435,
-  'compliment_photos': 7829,
-  'compliment_plain': 7397,
-  'compliment_profile': 569,
-  'compliment_writer': 1834,
-  'cool': 16856,
-  'elite': [2014, 2016, 2013, 2011, 2012, 2015, 2010, 2017],
-  'fans': 209,
-  'friends': ['M19NwFwAXKRZzt8koF11hQ',...],
-   'funny': 16605,
-  'name': 'Cin',
-  'review_count': 272,
-  'useful': 17019,
-  'user_id': 'lsSiIjAKVl-QRxKjRErBeg',
-  'yelping_since': '2010-07-13'}
-
+ 
